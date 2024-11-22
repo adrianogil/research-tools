@@ -1,0 +1,5 @@
+{
+    "DIR_MACRO": "RESEARCH_TOOLS_DIR",
+    "PROJECT_NAME": "research-tools",
+    "BASHRC": "bashrc.sh"
+}
