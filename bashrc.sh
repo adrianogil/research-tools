@@ -5,3 +5,4 @@ then
 fi
 
 alias bib-merge="python3 ${RESEARCH_TOOLS_DIR}/researchtools/bibtex/merge_bibtex.py"
+alias scopus-csv-filter="python3 ${RESEARCH_TOOLS_DIR}/researchtools/scopus/filter_csv.py"
